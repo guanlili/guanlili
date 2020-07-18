@@ -3,6 +3,13 @@
 <!--
 
 **guanlili/guanlili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+
+- 😄 Pronouns: ...
+
+
 -->
 
 I am guanlili, studying for a master's degree in software engineering in Beijing,This is my homepage!
@@ -10,11 +17,8 @@ I am guanlili, studying for a master's degree in software engineering in Beijing
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something fun 😉
-- 🌱 I’m currently learning python,dataAnalysis,
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning python,dataAnalysis and software test
+- 👯 I’m looking to collaborate on study
+- 📫 How to reach me: lovelose1921@vip.qq.com
+- ⚡ Fun fact: Dream is to raise a panda
 
