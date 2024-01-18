@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lovelose1921@vip.qq.com
 - ⚡ Fun fact: Dream is to raise a panda
 
+
+[![guanlili's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanlili)](https://github.com/guanlili/github-readme-stats)
