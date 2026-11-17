@@ -1,0 +1,33 @@
+name: Refresh recent writing
+
+on:
+  schedule:
+    - cron: '13 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recent-writing
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Read the blog feed
+        run: python3 scripts/update_recent_writing.py
+      - name: Commit updated articles
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Recent writing is up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md
+          git commit -m 'Refresh recent writing'
+          git push

@@ -11,10 +11,18 @@ I build AI products and developer tools in Beijing. I’m also a PhD student in 
 
 ## Selected projects
 
-- **[lili-full-stack](https://github.com/guanlili/lili-full-stack)** · Start a FastAPI and React project with authentication, tests, and deployment already wired up.
-- **[ai-pr-review](https://github.com/guanlili/ai-pr-review)** · A GitHub Action that runs three AI reviewers in parallel and merges their findings into one pull request review.
-- **[devledger](https://github.com/guanlili/devledger)** · Turn AI coding sessions into GitHub Issues and work logs, then export a timesheet for delivery.
+- **[lili-full-stack](https://github.com/guanlili/lili-full-stack)** · Start a FastAPI and React project with authentication, tests, and deployment already wired up. [Use this template](https://github.com/guanlili/lili-full-stack/generate) · [![CI & Deploy](https://github.com/guanlili/lili-full-stack/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/guanlili/lili-full-stack/actions/workflows/deploy.yml)
+- **[ai-pr-review](https://github.com/guanlili/ai-pr-review)** · A GitHub Action that runs three AI reviewers in parallel and merges their findings into one pull request review. [Setup](https://github.com/guanlili/ai-pr-review#快速开始)
+- **[devledger](https://github.com/guanlili/devledger)** · Turn AI coding sessions into GitHub Issues and work logs, then export a timesheet for delivery. [Quick start](https://github.com/guanlili/devledger#quick-start)
 - **[AI 人生火锅 · Life Hotpot](https://github.com/guanlili/ai-life-hotpot)** · A hackathon project that turns your hotpot choices into a personal story.
+
+## Recent writing
+
+<!-- recent-writing:start -->
+- 2026-10-26 · [Cursor 升级到 X Subscription 后，重度 Claude 用户的天塌了](<https://guanlili.github.io/2026/10/26/cursor%E5%8D%87%E7%BA%A7%E5%88%B0x-subscription%E5%90%8E-%E9%87%8D%E5%BA%A6claude%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86/>)
+- 2026-10-24 · [我宁愿把梦想播种在今天](<https://guanlili.github.io/2026/10/24/%E6%88%91%E5%AE%81%E6%84%BF%E6%8A%8A%E6%A2%A6%E6%83%B3%E6%92%AD%E7%A7%8D%E5%9C%A8%E4%BB%8A%E5%A4%A9/>)
+- 2026-08-25 · [48 小时黑客松：我用 AI 做了个相亲工具，然后把 AI 关在了「引导」这一环](<https://guanlili.github.io/2026/08/25/48%E5%B0%8F%E6%97%B6%E9%BB%91%E5%AE%A2%E6%9D%BE-%E4%BB%8E%E4%BA%8C%E7%BB%B4%E5%90%8D%E7%89%87%E5%88%B0%E4%B8%89%E7%BB%B4%E5%8D%9A%E7%89%A9%E9%A6%86/>)
+<!-- recent-writing:end -->
 
 ## About me
 
