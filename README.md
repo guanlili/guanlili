@@ -1,35 +1,23 @@
-# Hi there, I'm guanlili
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pear-dark.webp">
+  <img src="./assets/pear-light.webp" width="100%" alt="A golden pear drawn in colored pencil over fine geometric drafting lines">
+</picture>
 
-Carry out love and true evil.  
-A cute and charming villain, still trying to build something useful.
+# Hi, I’m 李梨 · Li Li
 
-I'm 李梨, a software engineer based in Beijing. I studied software engineering, worked across testing, full-stack development, PMO, and now spend most of my energy building AI products and engineering tools.
+I’m a software engineer in Beijing. I build AI products and developer tools, and I write about what I learn along the way.
 
-This is my GitHub homepage. Welcome.
+[**作品集 · Portfolio**](https://guanlili.github.io/portfolio/) · [**梨园 · Blog**](https://guanlili.github.io/)
 
-## About Me
+## Selected projects
 
-- Currently working on AI products, internal platforms, and developer tools.
-- Recently interested in LLM applications, code generation, private knowledge bases, AIGC workflows, and full-stack product engineering.
-- I write at [guanlili.github.io](https://guanlili.github.io), mostly about engineering practice, AI experiments, tools, and life.
-- I like turning messy ideas into small demos, and then turning good demos into something other people can actually use.
-- Fun fact: my old dream was to raise a panda. This dream remains unrealistic, but emotionally stable.
+- **[lili-full-stack](https://github.com/guanlili/lili-full-stack)** · Start a FastAPI and React project with authentication, tests, and deployment already wired up.
+- **[ai-pr-review](https://github.com/guanlili/ai-pr-review)** · A GitHub Action that runs three AI reviewers in parallel and merges their findings into one pull request review.
+- **[devledger](https://github.com/guanlili/devledger)** · Turn AI coding sessions into GitHub Issues and work logs, then export a timesheet for delivery.
+- **[AI 人生火锅 · Life Hotpot](https://github.com/guanlili/ai-life-hotpot)** · A hackathon project that turns your hotpot choices into a personal story. [Read how we built it](https://guanlili.github.io/portfolio/ai-hot-pot/).
 
-## What I Care About
+## Say hello
 
-- Build the smallest thing that proves the point.
-- Make tools usable by people who did not build them.
-- Keep product judgment close to engineering reality.
-- Write things down before memory edits the story.
+[Email](mailto:lovelose1921@vip.qq.com) · WeChat 公众号 **李梨同学丶**
 
-## Reach Me
-
-- Blog: [guanlili.github.io](https://guanlili.github.io)
-- WeChat：李梨同学丶
-- Email: [lovelose1921@vip.qq.com](mailto:lovelose1921@vip.qq.com)
-
-
-[![guanlili's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanlili)](https://github.com/guanlili/github-readme-stats)
-
-
-> When you look up at the stars, don't forget to look down at the dust.
+My old dream was to raise a panda. This dream remains unrealistic, but emotionally stable.
