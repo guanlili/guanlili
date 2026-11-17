@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pear-dark.webp">
-  <img src="./assets/pear-light.webp" width="100%" alt="A golden pear drawn in colored pencil over fine geometric drafting lines">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pear-scholar-dark.webp">
+  <img src="./assets/pear-scholar-light.webp" width="100%" alt="A golden pear character in round glasses and an academic cap, with books and brass gears">
 </picture>
 
 # Hi, I’m 李梨 · Li Li
 
-I’m a software engineer in Beijing. I build AI products and developer tools, and I write about what I learn along the way.
+I build AI products and developer tools in Beijing. I’m also a PhD student in artificial intelligence, researching large language models and agents.
 
 [**作品集 · Portfolio**](https://guanlili.github.io/portfolio/) · [**梨园 · Blog**](https://guanlili.github.io/)
 
