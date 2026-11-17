@@ -37,8 +37,12 @@ I’m particularly interested in code generation, private knowledge bases, and A
 - Keep product judgment close to engineering reality.
 - Write things down before memory edits the story.
 
+## Outside work
+
+I like taking photos, traveling, and spending time in museums. I keep a map of my trips, along with photos and notes, on [我的足迹 · Footprints](https://guanlili.github.io/footprints/).
+
+My old dream was to raise a panda. This dream remains unrealistic, but emotionally stable.
+
 ## Say hello
 
 [Email](mailto:lovelose1921@vip.qq.com) · WeChat 公众号 **李梨同学丶**
-
-My old dream was to raise a panda. This dream remains unrealistic, but emotionally stable.
