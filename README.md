@@ -19,9 +19,9 @@ I build AI products and developer tools in Beijing. I’m also a PhD student in 
 ## Recent writing
 
 <!-- recent-writing:start -->
+- 2026-11-22 · [Hydrogen、Carbon、Neon 都是些啥玩意？Gemini 4 元素周期表选型与省钱指南](<https://guanlili.github.io/2026/11/23/gemini-4-model-selection-and-cost/>)
+- 2026-11-22 · [Grok Bot Build Night 北京场笔记：当分享者不再只有研发和产品](<https://guanlili.github.io/2026/11/22/grok-bot-build-night-beijing-notes/>)
 - 2026-11-21 · [从数字分身到数字团队：我的 Grok Bot 工作实践](<https://guanlili.github.io/2026/11/21/grok-bot-digital-team/>)
-- 2026-10-26 · [Cursor 升级到 X Subscription 后，重度 Claude 用户的天塌了](<https://guanlili.github.io/2026/10/26/cursor%E5%8D%87%E7%BA%A7%E5%88%B0x-subscription%E5%90%8E-%E9%87%8D%E5%BA%A6claude%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86/>)
-- 2026-10-24 · [我宁愿把梦想播种在今天](<https://guanlili.github.io/2026/10/24/%E6%88%91%E5%AE%81%E6%84%BF%E6%8A%8A%E6%A2%A6%E6%83%B3%E6%92%AD%E7%A7%8D%E5%9C%A8%E4%BB%8A%E5%A4%A9/>)
 <!-- recent-writing:end -->
 
 ## About me
